@@ -1,0 +1,5 @@
+{
+  "name": "Aura AI Assistant",
+  "description": "A human-like AI assistant with real-time voice interaction, text chat, and Google Search grounding.",
+  "requestFramePermissions": ["microphone"]
+}
